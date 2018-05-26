@@ -1,5 +1,6 @@
 ## Simple Image Compare Tool
-Simple Drag and Drop Compare
+Pages
+http://Ushio.github.io/SimpleImageCompareTool
 
 ## dependencies
 https://github.com/zurb/twentytwenty
